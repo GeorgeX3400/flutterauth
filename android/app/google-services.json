@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170702338245",
+    "project_id": "social-app-beec9",
+    "storage_bucket": "social-app-beec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170702338245:android:d528aba3c5e3cc77d418ac",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozVpi4cwmTlIczKQmH6h8jhq2_p1zip8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
